@@ -1,7 +1,7 @@
 ## ✨: 📷: Project Demo Video
 
 ## Watch the demo here:
-https://youtu.be/3Rgq8lweXaY
+https://youtu.be/4UGxDRFcfh8
 
 ❤️❤️❤️ This is my first project about ESP32.
 
